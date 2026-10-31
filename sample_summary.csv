@@ -1,0 +1,13 @@
+Metric,All,Germany,Other countries
+Applications,42,29,13
+Interviewing (active),4,3,1
+Offers / hired,2,1,1
+Rejected (any stage),17,13,4
+  of which after interview,5,1,4
+"Pending (no reply, < 42 days)",3,1,2
+No reply (42+ days),16,11,5
+Interview conversion,26.2%,17.2%,46.2%
+
+By year,Applications,Reached interview,Conversion
+2025,20,5,25.0%
+2026,22,6,27.3%
